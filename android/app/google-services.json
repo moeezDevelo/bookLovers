@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "448072608357",
+    "project_id": "booklovers-4524e",
+    "storage_bucket": "booklovers-4524e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448072608357:android:fe26b879895518aef9748c",
+        "android_client_info": {
+          "package_name": "com.booklovers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448072608357-u94b4d3nlk2ra9d2ttmor2jhgt4690md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.booklovers",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "448072608357-cpuurrhso7ecgebmr0v5fvlp276i8n2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZA0mGtOw0rQA4lZm0Gc_jIcV0cuiK9WM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448072608357-cpuurrhso7ecgebmr0v5fvlp276i8n2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

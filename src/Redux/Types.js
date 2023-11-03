@@ -1,0 +1,23 @@
+// Auth types
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const SETEXPLORE = 'SETEXPLORE';
+export const CART = 'CART';
+export const CARTITEM = 'CARTITEM';
+export const REMOVECARTITEM = 'REMOVECARTITEM';
+export const LANDINGPAGEDATA = 'LANDINGPAGEDATA';
+export const BUTTONLOADER = 'BUTTONLOADER';
+export const ISLOADER = 'ISLOADER';
+export const ISLOADERTEXT = 'ISLOADERTEXT';
+export const SETCOMMENTS = 'SETCOMMENTS';
+export const ADDNEWCOMMENTS = 'ADDNEWCOMMENTS';
+export const UPADTECOMMENTS = 'UPADTECOMMENTS';
+export const AUDIOTRACK = 'AUDIOTRACK';
+export const CHAPTERS = 'CHAPTERS';
+export const REMOVETRACKS = 'REMOVETRACKS';
+export const BOOKID = 'BOOKID';
+export const BOOKDETAIL = 'BOOKDETAIL';
+export const ISPLAY = 'ISPLAY';
+export const TRACKNUMBER = 'TRACKNUMBER';
+export const EXPLORELANIDINGDATA = 'EXPLORELANIDINGDATA';
+export const NOTIFICATIONTYPE = 'NOTIFICATIONTYPE';
